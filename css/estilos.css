@@ -1,7 +1,7 @@
 body
 {
     background: black;
-    color: red;
+    color: blue;
     text-align: center;
     font-family: Courier;
     font-size:  16px;
@@ -47,6 +47,6 @@ body
 }
 #post
 {
-    background: white;
+    background: red;
     padding: 1em;
 }
