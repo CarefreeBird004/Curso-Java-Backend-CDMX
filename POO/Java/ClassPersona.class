@@ -1,6 +1,0 @@
-class Pesona{
-    String name = " ";
-    void walk(){
-
-    }
-} 
