@@ -1,3 +1,4 @@
+  
 <?php
 class Account {
     public $id;
@@ -12,4 +13,5 @@ class Account {
     }
 
 }
+
 ?>
