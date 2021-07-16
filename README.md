@@ -30,6 +30,6 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * Git Bash 
 * Visual Studio Code 
 * XAMPP Control Panel 
-* Intellij IDEA 
+* IntelliJ IDEA 
 
 # Comentarios 
