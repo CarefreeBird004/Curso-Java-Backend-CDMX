@@ -29,8 +29,7 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * Ubuntu WLS
 * Git Bash 
 * Visual Studio Code 
-* XAMPP Control Panel
+* XAMPP Control Panel 
+* Intellij IDEA 
 
 # Comentarios 
- 
-* Intellij IDEA 
