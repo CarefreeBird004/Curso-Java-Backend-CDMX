@@ -24,3 +24,13 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * JDK: Java Development Kit
 * JDBC: Java Data Base Connectivity
 * SQL: Structured Query Language
+
+# Herramientas de Sotfware
+* Ubuntu WLS
+* Git Bash 
+* Visual Studio Code 
+* XAMPP Control Panel
+
+# Comentarios 
+ 
+* Intellij IDEA 
