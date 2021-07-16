@@ -18,7 +18,7 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * WLS: Windows Subsystem for Linux
 * Git y GitHub
 * Java SE 8 y 9
-* JS
+* Java Script
 * PHP
 * Python
 * JDK: Java Development Kit
