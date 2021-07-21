@@ -15,7 +15,6 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 
 
 ## Tecnologías
-* WLS: Windows Subsystem for Linux
 * Git y GitHub
 * Java SE 8 y 9
 * Java Script
@@ -26,7 +25,7 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * SQL: Structured Query Language
 
 # Herramientas de Sotfware
-* Ubuntu WLS
+* WLS: Windows Subsystem for Linux
 * Git Bash 
 * Visual Studio Code 
 * XAMPP Control Panel 
