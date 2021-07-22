@@ -5,7 +5,7 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 ## Temas Vistos
 * Semana 1
 	* Clases del Curso de Introducción a la Terminal y Línea de Comandos
-	* Clases del Curso Profesional de Git
+	* Clases del Curso Profesional de Git y GitHub
 	* Clases del Curso de Programación Orientada a Objetos: POO
 	* Clases del Curso de Introducción a Java SE
 * Semana 2
