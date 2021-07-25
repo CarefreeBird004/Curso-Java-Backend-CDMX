@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="jdk-8.0.292">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/annotations/DependencyChecker/PluginChecker/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/annotations/DependencyChecker/Plugins/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/annotations/Validator/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/forkjoin/mergesort" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/jmx/jmx-scandir/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/jmx/jmx-scandir/test" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/lambda/BulkDataOperations/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/lambda/DefaultMethods" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/nio/chatserver" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/nio/file" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/nio/multicast" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/nio/server" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/scripting/scriptpad/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot/sample/try-with-resources/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot" recursive="false" type="SOURCES" />
+  </library>
+</component>

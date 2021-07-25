@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d147592-b7a3-47ef-a866-c731922f0682" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Semena 3/.idea/Semena 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/CommanderFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/JobPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/JobSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/api/APIFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/api/JobsAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/cli/CLIArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/cli/CLIFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/cli/CLIHelpValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/jobs-search-reporter/src/main/java/com/platzi/jobsearch/cli/CLIKeywordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/CLIArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/CLIArgumentsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/MathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/StringFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/_01_FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/_02_PredicatesDemos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/_03_ConsumerSupplierDemos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_04_functional/_04_OperatorsAndBiFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_05_sam/AgeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_05_sam/SingleAbstractMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_06_reference_operator/NombresUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_06_reference_operator/_01_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_07_inference/Inference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_07_inference/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_08_lambda/Sintaxis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_08_lambda/Syntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_09_defaults/Defaults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_09_defaults/StringFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/Chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/Chaining2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/builder/BuilderNoChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/builder/BuilderWithChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/data/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/data/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_10_chaining/data/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_11_composition/Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_11_composition/MathOperations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_12_currying/Currying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_13_partial_application/Partial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_14_optionals/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_14_optionals/Optionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_14_optionals/Optionals2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_15_streams_intro/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_15_streams_intro/StreamsAndIterables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_15_streams_intro/TypeStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_16_listeners/StreamListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_17_operators_collectors/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_18_intermediate_ops/IntermediateOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/_19_final_ops/FinalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/exercises/_11_Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/modules/src/main/java/com/platzi/functional/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso de Programación Funcional con Java SE/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jdk_8_0_292.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bottom2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clidlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/MetodoEquals/Igualdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/MetodoEquals/StringBuilderMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/MetodoEquals/StringConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorLogicoIgual/EjerciciosRepaso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorLogicoIgual/OperadorLogico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorLogicoIgual/OperadoresIgualdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorTernario/FlujoDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorTernario/FlujoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorTernario/FlujoSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorTernario/FlujoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/OperadorTernario/OpereadorTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semena 3/Clases del Curso Básico de Testing en Java/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Semena 3/Clases del Curso Básico de Testing en Java/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/Tareas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/src/Tarea1/Agedp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Agedp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/src/Tarea1/Bottom2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tareas/src/Tarea1/Kinder.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vj8xotDBMLQghpOEUO6qd2c57C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-8.0.292.10-hotspot" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17871222" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.StringConcatenacion">
+    <configuration name="FlujoDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.OperadorTernario.FlujoDoWhile" />
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.OperadorTernario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlujoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.OperadorTernario.FlujoFor" />
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.OperadorTernario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlujoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.OperadorTernario.FlujoWhile" />
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.OperadorTernario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.MetodoEquals.StringBuilderMetodos" />
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.MetodoEquals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcatenacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.MetodoEquals.StringConcatenacion" />
+      <module name="Tarea1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.MetodoEquals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringConcatenacion" />
+        <item itemvalue="Application.StringBuilderMetodos" />
+        <item itemvalue="Application.FlujoFor" />
+        <item itemvalue="Application.FlujoDoWhile" />
+        <item itemvalue="Application.FlujoWhile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d147592-b7a3-47ef-a866-c731922f0682" name="Default Changelist" comment="" />
+      <created>1627064388961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627064388961</updated>
+      <workItem from="1627064390347" duration="3210000" />
+      <workItem from="1627069649314" duration="8962000" />
+      <workItem from="1627149523702" duration="8878000" />
+      <workItem from="1627189240668" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Videos/OperadorTernario/FlujoWhile.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
