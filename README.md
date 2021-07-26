@@ -12,6 +12,11 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 	* Clases del Curso de Java SE Orientado a Objetos
 	* Clases del Curso Avanzado de Java SE
 	* Curso de Fundamentos de Bases de Datos
+	* Clases del Curso de Java SE Persistencia de Datos
+* Semana 3
+	* Clases del Curso Básico de Testing en Java
+	* Clases del Curso de Programación Funcional con Java SE
+	* 
 
 
 ## Tecnologías
