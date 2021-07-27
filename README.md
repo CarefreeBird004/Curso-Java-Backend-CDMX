@@ -16,7 +16,15 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * Semana 3
 	* Clases del Curso Básico de Testing en Java
 	* Clases del Curso de Programación Funcional con Java SE
-	* 
+	* Clases del Curso de Java Spring
+
+# Tareas realizadas
+* Tarea 1
+	* Comprobación de codigo
+	* Implementacion de código hasta que compile
+	* Ejercicios de videos para certificación Java 8 OCA (FY2021) - Accenture
+* Tarea 2
+	* Ejercicios de practica de operadores y método equals
 
 
 ## Tecnologías
@@ -35,5 +43,6 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * Visual Studio Code 
 * XAMPP Control Panel 
 * IntelliJ IDEA 
+
 
 # Comentarios 
