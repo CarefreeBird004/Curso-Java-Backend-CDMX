@@ -4,9 +4,8 @@
 * Polimorfismo
 * Abstracción
 * Encapsulamiento
-* Clases anidadas 
-* Clases enumerations
-* Clases anonimas
+* Objetos y metodos constructores
+
 
 ## Tecnologías
 * Java SE16
