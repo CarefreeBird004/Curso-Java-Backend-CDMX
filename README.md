@@ -18,7 +18,7 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 	* Clases del Curso de Programación Funcional con Java SE
 	* Clases del Curso de Java Spring
 
-# Tareas realizadas
+## Tareas realizadas
 * Tarea 1
 	* Comprobación de codigo
 	* Implementacion de código hasta que compile
