@@ -16,8 +16,12 @@ class Student {
     @Override
     public boolean equals(Object obj) {
         // Write your code here
+        if (obj instanceof Student) {
+            Student s= (Student) obj;
+            return this.id == s.id;
+        }
 
-        return obj.equals(Student.class);
+        return false;
     }
 }
 
