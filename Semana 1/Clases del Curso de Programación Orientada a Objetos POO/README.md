@@ -7,7 +7,6 @@
 * Clases anidadas 
 * Clases enumerations
 * Clases anonimas
-* 
 
 ## Tecnologías
 * Java SE16
