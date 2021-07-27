@@ -31,6 +31,7 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * Git y GitHub
 * Java SE 8 y 9
 * Java Script
+* Java Spring
 * PHP
 * Python
 * JDK: Java Development Kit
@@ -43,6 +44,9 @@ El curso de **Backend** esta desarrollado para capacitar y dotar de información
 * Visual Studio Code 
 * XAMPP Control Panel 
 * IntelliJ IDEA 
+* Postman
+* MySQL
+* PostgreSQL 11
 
 
 # Comentarios 
