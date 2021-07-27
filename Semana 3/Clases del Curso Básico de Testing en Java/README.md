@@ -18,6 +18,5 @@
 ## Tecnologías 
 * Java 8
 * Java JUnit
-* 
 ## Softwares
 * IntelliJ IDEA
