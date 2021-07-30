@@ -11,7 +11,7 @@ public class TestMyDate {
         MyDate m1 = new MyDate(2,8,2019);
         MyDate m2 = new MyDate(2,8,2019);
         MyDate m3 = null;
-
+        
         if(m1==m2) {
             System.out.println("m1==m2");
         }else {
@@ -26,13 +26,9 @@ public class TestMyDate {
 
 // Compare if m3 is equals to m1 or m2
 
-        try{
-            if(m3.equals(m1)||m3.equals(m2)) {
-                System.out.println("m3 is equal to m1 or m2");
-            }else {
-                System.out.println("m3 is not equal to m1 or m2");
-            }
-        }catch (NullPointerException e){
+        if(m2.equals(m3)||m1.equals(m3)) {
+            System.out.println("m3 is equal to m1 or m2");
+        }else {
             System.out.println("m3 is not equal to m1 or m2");
         }
     }
@@ -70,9 +66,11 @@ class MyDate{
 
     @Override
     public boolean equals(Object obj) {
-        if(this == obj) return true;
-        if(obj instanceof MyDate) {
+        if(this == obj) {
             return true;
+        }else if(obj instanceof MyDate) {
+            MyDate myDate= (MyDate) obj;
+            return this.day==myDate.day && this.month==myDate.month&&this.year==myDate.year;
         }else {
             return false;
         }

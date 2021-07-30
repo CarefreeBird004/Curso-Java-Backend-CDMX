@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91830e96-0621-4592-a19b-b6562abeb2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tarea 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Incr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestMyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Incr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Incr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMyDate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Twisty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Twisty" />
+      <module name="Tarea 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p" />
+      <module name="Tarea 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -66,7 +77,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestMyDate" />
+        <item itemvalue="Application.p" />
         <item itemvalue="Application.Incr" />
+        <item itemvalue="Application.Twisty" />
       </list>
     </recent_temporary>
   </component>
@@ -79,10 +92,24 @@
       <option name="presentableId" value="Default" />
       <updated>1627528604022</updated>
       <workItem from="1627528606166" duration="94000" />
+      <workItem from="1627537462187" duration="2306000" />
+      <workItem from="1627598798414" duration="3760000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

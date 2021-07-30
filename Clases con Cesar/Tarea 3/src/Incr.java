@@ -7,5 +7,7 @@ public class Incr {
         y*=y;
         x-=y;
         System.out.println(x);
+        boolean test5 = Boolean.valueOf("grgrgr");
+        System.out.println(test5);
     }
 }
