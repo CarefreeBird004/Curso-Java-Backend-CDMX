@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e721286-4027-4224-b68f-c9774ba4c612" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Videos/Igualdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/StringConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/StringInmutabilidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/StringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Videos/StringVuilderMetrodos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,63 +38,81 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.DooBee">
-    <configuration name="DooBee$MyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DooBee$MyFive" />
+  <component name="RunManager" selected="Application.StringVuilderMetrodos">
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.StringBuilderExample" />
       <module name="Tarea 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DooBee$Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DooBee$Simple" />
+    <configuration name="StringInmutabilidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.StringInmutabilidad" />
       <module name="Tarea 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DooBee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DooBee" />
+    <configuration name="StringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.StringMetodos" />
       <module name="Tarea 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintTab" />
+    <configuration name="StringPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.StringPool" />
       <module name="Tarea 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simple" />
+    <configuration name="StringVuilderMetrodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Videos.StringVuilderMetrodos" />
       <module name="Tarea 4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DooBee" />
-        <item itemvalue="Application.PrintTab" />
-        <item itemvalue="Application.Simple" />
-        <item itemvalue="Application.DooBee$Simple" />
-        <item itemvalue="Application.DooBee$MyFive" />
+        <item itemvalue="Application.StringVuilderMetrodos" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.StringMetodos" />
+        <item itemvalue="Application.StringPool" />
+        <item itemvalue="Application.StringInmutabilidad" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +126,10 @@
       <updated>1627925797898</updated>
       <workItem from="1627925799312" duration="3752000" />
       <workItem from="1627931036976" duration="925000" />
+      <workItem from="1628138398014" duration="11557000" />
+      <workItem from="1628287108895" duration="4847000" />
+      <workItem from="1628309699331" duration="2447000" />
+      <workItem from="1628481012290" duration="91000" />
     </task>
     <servers />
   </component>
