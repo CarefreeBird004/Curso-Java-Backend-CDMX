@@ -17,6 +17,6 @@ public class NameInitial {
                 iniciales += name.charAt(i+1);
             }
         }
-        System.out.println(iniciales);
+        System.out.println("Tus iniciales son: " + iniciales);
     }
 }
